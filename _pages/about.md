@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tanmay Chavan's portfolio site"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! My name is Tanmay Chavan. I am a first-year MS CS student at Georgia Tech. Previously, I worked as a software engineer at Avaya. I completed my bachelors in CS from Pune Institute of Computer Technology (PICT), India.
+
+My research interests span over several domains in Machine Learning and Natural Language Processing. I am particularly interested in low-resource NLP and building robust NLP tools that are accessible to a broader audience. I am interested in exploring data-centric approaches of ML.
+
+At Avaya, I worked on building backend web services and for our cloud and on-premise solutions. I also built Devops systems and developing and deploying ML systems.
+
+Feel free to reach out for collaborations or a quick chat! You can contact me on my email or LinkedIn. 
 
 A data-driven personal website
 ======
