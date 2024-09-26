@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "mussoorie-dp.jpeg"
   name             : "Tanmay Chavan"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "MS CS at Georgia Tech"
   location         : "Atlanta, GA"
   employer         : "Georgia Tech"
