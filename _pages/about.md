@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tanmay Chavan's portfolio site"
+title: "Hi! I'm Tanmay"
 author_profile: true
 redirect_from: 
   - /about/
