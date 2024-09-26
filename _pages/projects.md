@@ -1,13 +1,11 @@
 ---
-permalink: /
+layout: archive
 title: "Projects"
+permalink: /projects/
 author_profile: true
-redirect_from: 
-  - /projects/
-  - /projects.html
 ---
+<br>
 
-<br><br><br>
 PayTTMM - A Bill Splitting App 
 ------
 _Skills: Flutter, Firebase, Dart, App development_<br>
