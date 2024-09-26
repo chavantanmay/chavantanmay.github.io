@@ -1,13 +1,18 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /cv
 ---
 
 {% include base_path %}
+
+<embed src="{{ site.baseurl }}/files/TanmayChavanResume0925.pdf" type="application/pdf" width="600px" height="500px"/>
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -61,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

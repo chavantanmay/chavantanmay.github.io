@@ -4,7 +4,6 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-<br>
 
 PayTTMM - A Bill Splitting App 
 ------
